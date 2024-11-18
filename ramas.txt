@@ -5,3 +5,5 @@ Cambio Hotfix 1
 
 Cambio Feature2 1
 Cambio Feature2 2
+
+Cambio Release 1
